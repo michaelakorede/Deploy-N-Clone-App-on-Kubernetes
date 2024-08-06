@@ -88,9 +88,7 @@ An API (Application Programming Interface) is like a restaurant menu that lets y
 
 Your container is now created. Browse the same URL (`http://your_public_ip:8081`) again, and you will see that the whole Netflix database is connected to your Netflix clone app.
 
-
-
-
+![Alt text](image-8.png)
 
 * Phase 2 - Implementation of Security with sonerqube and trivy 
 * Phase 3 - Let automate the whole deployment using by jenkins pipeline
