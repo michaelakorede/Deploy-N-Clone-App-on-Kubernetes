@@ -26,7 +26,7 @@ We have five phases of implementation with this Project
 
 4. Clone the GitHub repository:
     ```bash
-    git clone https://github.com/Aakibgithuber/Deploy-Netflix-Clone-on-Kubernetes
+    git clone (https://github.com/michaelakorede/Deploy-N-Clone-App-on-Kubernetes)
     ```
 
 5. Make sure to create an Elastic IP address and associate it with your instance.
