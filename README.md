@@ -96,6 +96,6 @@ Your container is now created. Browse the same URL (`http://your_public_ip:8081`
 
 * Phase 3 - Let automate the whole deployment using by jenkins pipeline
 * Phase 4 - Monitoring via Promotheus and grafana
-* Phase 5 - Kubernetes 
+* Phase 5 - Kubernetes .
 
 
