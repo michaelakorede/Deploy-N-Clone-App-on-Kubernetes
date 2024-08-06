@@ -85,6 +85,7 @@ An API (Application Programming Interface) is like a restaurant menu that lets y
     docker build -t netflix:latest --build-arg TMDB_V3_API_KEY=your_api_key .
     docker run -d -p 8081:80 netflix
     ```
+![](image-9.png)
 
 Your container is now created. Browse the same URL (`http://your_public_ip:8081`) again, and you will see that the whole Netflix database is connected to your Netflix clone app.
 
